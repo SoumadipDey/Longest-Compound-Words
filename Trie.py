@@ -62,7 +62,7 @@ class Trie:
             """
             Whenever the currently read character is not found within the children of
             the current trie, the prefixes list is returned, else we traverse all the
-            characters in the word and keep incrementing prefix with the current character
+            characters in the word and keep appending prefix with the current character
             untill we reach a terminal node, where we append the prefixes list with the 
             prefix
             """
