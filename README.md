@@ -42,6 +42,16 @@ The algorithm for the solution :
 > Step 5. Return the longest and second_longest words
 
 ## Results:
+
+**Machine Specifications**
+>
+> OS: Windows 10 
+>
+> CPU: Ryzen 3 2200G
+>
+> RAM: 16 GB DDR4
+>
+
 1) Output  for File: Input_01.txt
 
 
