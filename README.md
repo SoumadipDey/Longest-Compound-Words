@@ -40,3 +40,10 @@ The algorithm for the solution :
 > >ii) Else get all the prefixes of the current suffix of the word , and find the new suffixes w.r.t each and every prefix length. Append the new `<word,suffix>` pairs into the deque. 
 > 
 > Step 5. Return the longest and second_longest words
+
+## Results:
+1) Output  for File: Input_01.txt
+![Output  for File: Input_01.txt](https://drive.google.com/file/d/1xT5MAcJn4-6wG6dDuNGsii3_ki1F0vsJ/view?usp=sharing)
+
+2) Output  for File: Input_02.txt
+![enter image description here](https://drive.google.com/file/d/1bYSSy0XNsLiiLyxPP0HehTxDVFQxhkLD/view?usp=sharing)
