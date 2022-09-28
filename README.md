@@ -43,7 +43,11 @@ The algorithm for the solution :
 
 ## Results:
 1) Output  for File: Input_01.txt
+
+
 ![Output  for File: Input_01.txt](/Output_1.png)
 
 2) Output  for File: Input_02.txt
+
+
 ![Output  for File: Input_02.txt](/Output_2.png)
