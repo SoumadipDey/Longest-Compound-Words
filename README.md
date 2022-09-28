@@ -43,7 +43,7 @@ The algorithm for the solution :
 
 ## Results:
 1) Output  for File: Input_01.txt
-![Output  for File: Input_01.txt](https://drive.google.com/file/d/1xT5MAcJn4-6wG6dDuNGsii3_ki1F0vsJ/view?usp=sharing)
+![Output  for File: Input_01.txt](/Output_1.png)
 
 2) Output  for File: Input_02.txt
-![enter image description here](https://drive.google.com/file/d/1bYSSy0XNsLiiLyxPP0HehTxDVFQxhkLD/view?usp=sharing)
+![Output  for File: Input_02.txt](/Output_2.png)
