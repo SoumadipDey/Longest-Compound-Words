@@ -24,7 +24,7 @@ The problem statement can be found in the [Exercise_Fresher_Word_Problem.pdf](ht
 While researching for this problem , many solutions and related problems were observed out of which the **trie based approach** was the most easily understandable , effecient and widely used one. So that particular approach has been selected and modified for solving the given problem
 
 The algorithm for the solution :
-> Step 1. Build the trie by reading every single word from the selected file.
+> Step 1. Build the trie by reading every word one by one from the selected file.
 > 
 >  Step 2. While building the trie also build a dequeue which contains `<word,suffix>` pairs if any w.r.t the previously existing valid words in the trie.
 >  
