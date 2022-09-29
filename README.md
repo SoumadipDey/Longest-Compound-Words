@@ -1,5 +1,5 @@
 ## Longest-Compound-Words
-Impledge Technologies interview challenge 2022
+Impledge Technologies interview coding test 2022
 The problem statement can be found in the [Exercise_Fresher_Word_Problem.pdf](https://github.com/SoumadipDey/Longest-Compound-Words/blob/main/Exercise_Fresher_Word_Problem.pdf "Exercise_Fresher_Word_Problem.pdf") file.
 
 ## Code Execution Procedure
